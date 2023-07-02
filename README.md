@@ -5,7 +5,7 @@ Title of the project: The Subway Tracker
 Description of the project: The current project show an animation of a route of subway from the WTC station to the Lincoln Center Station at New York City.
 
 How to Run: Just copy the following link and paste it in any web browser. And then just click in the upper button to see the subway route.
-https://victorch2023.github.io/RealTimeBus/
+https://victorch2023.github.io/SubwayTracker/
 
 Roadmap of future improvements: The user also can navegate with the mouse along all the map to get information from the zone or also other places.
 
